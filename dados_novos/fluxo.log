@@ -118,3 +118,492 @@ accessed_date,duration_(secs),network_protocol,ip,bytes,accessed_Ffom,age,gender
 2017-03-21 00:06:38.232,2880,TCP  ,82.135.244.148,335,Others,,Male,IT,Premium,English,900.24,No,0.0,Credit Card,2017-03-21
 2017-03-21 00:06:38.232,4752,TCP  ,82.140.178.51,4445,Others,,Female,PL,Premium,English,1500.4,No,0.0,Cash,2017-03-21
 2017-03-21 00:08:55.046,4751,TCP  ,82.140.211.18,2267,Others,,Female,US,Premium,Russian,15.69,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:08:55.046,3513,TCP  ,82.14.114.212,3249,Others,,Female,JP,Premium,English,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:08.892,4638,TCP  ,82.14.136.166,2157,Others,,Female,JP,Premium,English,10.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:08.892,2502,TCP  ,82.144.203.38,3249,Others,,Female,IT,Premium,Russian,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:14.296,3807,TCP  ,82.145.208.36,262,Others,,Male,JP,Premium,English,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:14.296,2953,TCP  ,82.145.208.40,277,Others,,Female,US,Premium,French,0.0,Yes,450.12,Debit Card,2017-03-21
+2017-03-21 00:09:59.010,4630,TCP  ,82.145.208.50,2163,Safari,,Male,IT,Premium,English,0.0,Yes,16.422,Others,2017-03-21
+2017-03-21 00:09:59.010,4372,TCP  ,82.145.208.81,3185,Safari,,Male,PL,Premium,French,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:10.964,3056,TCP  ,82.145.209.1313,2157,Safari,,Female,AT,Premium,Spanish,900.24,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:10.964,2371,TCP  ,82.145.209.1417,3249,Safari,,Female,AU,Premium,swahili,40.66,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:13:12.601,4574,TCP  ,82.145.210.382,3249,Safari,,Female,AU,Premium,English,15.69,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:12.601,1622,TCP  ,82.145.210.389,2261,Safari,,Female,IT,Premium,English,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:10:40.246,3003,TCP  ,82.145.210.396,556,IOS App,,Female,US,Normal,English,0.0,Yes,91.485,Cash,2017-03-21
+2017-03-21 00:10:40.246,4350,TCP  ,82.145.211.182,515,Microsoft Edge,,Female,CA,Normal,Spanish,58.65,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:10:40.246,3647,TCP  ,82.145.211.183,702,Microsoft Edge,,Female,AR,Normal,English,35.19,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:10:40.246,3404,TCP  ,82.145.211.195,586,Microsoft Edge,,Female,CN,Normal,German,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:10:40.552,2334,TCP  ,82.145.211.206,702,IOS App,,Female,PL,Normal,French,900.24,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:10:40.552,4163,TCP  ,82.145.211.218,586,IOS App,,Female,US,Normal,English,900.24,No,0.0,Others,2017-03-21
+2017-03-21 00:10:40.552,4149,TCP  ,82.145.216.198,556,IOS App,,Male,CA,Normal,English,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:10:40.552,4931,TCP  ,82.145.218.157,515,IOS App,,Female,CA,Normal,English,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:10:44.269,2123,TCP  ,82.145.219.114,1678,IOS App,,Female,CH,Premium,French,0.0,Yes,1425.38,Cash,2017-03-21
+2017-03-21 00:10:44.269,2941,TCP  ,82.145.219.121,2545,Chrome,,Female,CH,Premium,French,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:09:23.306,4669,TCP  ,82.145.219.131,268,Chrome,,Female,IT,Premium,Spanish,20.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:09:23.306,4756,TCP  ,82.145.219.139,281,Chrome,,Female,MX,Premium,French,600.16,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:11:27.835,3412,TCP  ,82.145.219.152,3185,Chrome,,Female,GB,Premium,English,0.0,Yes,1425.38,Cash,2017-03-21
+2017-03-21 00:11:27.835,3781,TCP  ,82.145.219.164,2267,Chrome,,Male,IT,Premium,English,600.16,No,0.0,Others,2017-03-21
+2017-03-21 00:11:40.214,2973,TCP  ,82.145.219.176,561,Chrome,,Male,US,Normal,English,11.73,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:40.214,1513,TCP  ,82.145.219.178,589,Chrome,,Female,IT,Normal,French,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:11:40.216,4637,TCP  ,82.145.219.178,1725,Chrome,,Female,IT,Normal,English,10.46,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:40.216,4940,TCP  ,82.145.219.184,579,Chrome,,Female,CH,Normal,English,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:11:40.599,3224,TCP  ,82.145.219.186,561,Chrome,,Female,CA,Normal,Russian,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:11:40.599,2617,TCP  ,82.145.219.71,589,Others,,Female,IN,Normal,English,121.98,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:37.020,4602,TCP  ,82.145.219.74,3185,Others,,Male,IT,Premium,English,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:37.020,3331,TCP  ,82.145.219.80,2371,Others,,Male,IT,Premium,French,1800.51,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:46.533,4913,TCP  ,82.145.220.101,3185,Others,,Female,IT,Premium,English,45.45,No,0.0,Cash,2017-03-21
+2017-03-21 00:11:46.533,4483,TCP  ,82.145.220.138,2267,Others,,Female,IT,Premium,swahili,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:04.757,3242,TCP  ,82.145.220.145,46,Others,,Female,PL,Premium,English,5.23,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:15:04.757,4323,TCP  ,82.145.220.156,40,Mozilla Firefox,,Female,FI,Premium,Russian,143.36,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:55.699,1584,TCP  ,82.145.220.158,3185,Mozilla Firefox,,Female,US,Premium,Russian,0.0,Yes,8.211,Cash,2017-03-21
+2017-03-21 00:11:55.699,3857,TCP  ,82.145.220.165,2319,Mozilla Firefox,,Male,KR,Premium,English,143.36,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:06.462,3876,TCP  ,82.145.220.173,3185,Mozilla Firefox,,Male,KR,Premium,Spanish,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:06.462,3707,TCP  ,82.145.220.210,2319,Mozilla Firefox,,Female,US,Premium,English,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:15:10.085,2458,TCP  ,82.145.220.211,292,Mozilla Firefox,,Female,IT,Premium,English,2100.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:15:10.085,2605,TCP  ,82.145.220.211,507,Android App,,Male,PE,Premium,English,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:12:16.491,4692,TCP  ,82.145.220.230,3185,Android App,,Female,IT,Premium,English,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:16.491,2803,TCP  ,82.145.220.241,2371,Android App,,Female,RU,Premium,English,179.2,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:13.943,3316,TCP  ,82.145.220.253,315,Android App,,Male,AR,Premium,Russian,26.15,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:11:13.943,2195,TCP  ,82.145.220.26,5673,Android App,,Female,AT,Premium,English,1500.4,No,0.0,Others,2017-03-21
+2017-03-21 00:12:25.979,3830,TCP  ,82.145.220.30,3185,Android App,,Female,AT,Premium,nepali,30.3,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:12:25.979,4047,TCP  ,82.145.220.40,2267,Android App,,Female,CH,Premium,Russian,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:35.806,3601,TCP  ,82.145.220.81,46,Android App,,Female,KR,Premium,French,71.68,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:15:35.806,2340,TCP  ,82.145.220.91,40,Android App,,Female,CN,Premium,Russian,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:34.836,4398,TCP  ,82.145.220.97,2273,Android App,,Female,CN,Premium,English,35.84,No,0.0,Others,2017-03-21
+2017-03-21 00:15:34.836,2135,TCP  ,82.145.220.99,3369,Android App,,Male,CH,Premium,English,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:35.159,4950,TCP  ,82.145.221.112,3185,Android App,,Female,GB,Premium,English,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:12:35.159,2517,TCP  ,82.145.221.12,2267,Android App,,Male,RU,Premium,English,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:44.185,2145,TCP  ,82.145.221.131,3185,Android App,,Female,CN,Premium,Russian,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:12:44.185,3827,TCP  ,82.145.221.136,2283,Android App,,Female,CA,Premium,English,10.46,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:12:53.989,4858,TCP  ,82.145.221.14,3185,Android App,,Male,CH,Premium,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:53.989,1989,TCP  ,82.145.221.168,2267,Android App,,Male,GB,Premium,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:13:03.105,4714,TCP  ,82.145.221.18,3185,Android App,,Male,IT,Premium,Russian,35.84,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:13:03.105,2930,TCP  ,82.145.221.201,2267,Android App,,Female,CN,Premium,English,15.69,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:14.926,4598,TCP  ,82.145.221.212,277,Android App,,Female,PE,Premium,English,0.0,Yes,19.6125,Cash,2017-03-21
+2017-03-21 00:14:14.926,4080,TCP  ,82.145.221.214,5613,Android App,,Female,US,Premium,Russian,121.98,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:13:22.575,1557,TCP  ,82.145.221.233,3185,Android App,,Male,IT,Premium,English,121.98,No,0.0,Others,2017-03-21
+2017-03-21 00:13:22.575,1837,TCP  ,82.145.221.233,2267,Chrome,,Female,US,Premium,English,30.3,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:16:30.575,4720,TCP  ,82.145.221.240,2273,Mozilla Firefox,,Female,IT,Premium,English,3000.85,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:16:30.575,2302,TCP  ,82.145.221.251,3369,Mozilla Firefox,,Female,CN,Premium,English,35.19,No,0.0,Cash,2017-03-21
+2017-03-21 00:13:40.246,3022,TCP  ,82.145.221.34,702,Mozilla Firefox,,Male,US,Normal,English,1800.51,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:40.246,3367,TCP  ,82.145.221.35,586,Mozilla Firefox,,Female,US,Normal,nepali,0.0,Yes,114.688,Cash,2017-03-21
+2017-03-21 00:13:40.246,3627,TCP  ,82.145.221.63,556,Mozilla Firefox,,Female,US,Normal,English,26.15,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:40.246,2051,TCP  ,82.145.221.78,515,Mozilla Firefox,,Male,SE,Normal,English,0.0,Yes,7.322,Cash,2017-03-21
+2017-03-21 00:13:40.556,3292,TCP  ,82.145.221.84,702,Mozilla Firefox,,Male,RU,Normal,English,203.3,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:40.556,1529,TCP  ,82.145.221.8,540,Mozilla Firefox,,Male,CN,Normal,English,2100.0,No,0.0,Others,2017-03-21
+2017-03-21 00:13:40.556,3135,TCP  ,82.145.221.91,556,Mozilla Firefox,,Male,NO,Normal,English,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:40.556,4222,TCP  ,82.145.221.97,515,Mozilla Firefox,,Female,IN,Normal,English,26.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:13:41.752,2387,TCP  ,82.145.221.99,639,Android App,,Female,IT,Normal,Arabic,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:41.752,4481,TCP  ,82.145.222.107,614,Chrome,,Female,IT,Normal,Russian,121.98,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:13:32.202,3634,TCP  ,82.145.222.129,3185,Chrome,,Male,PL,Premium,English,121.98,No,0.0,Cash,2017-03-21
+2017-03-21 00:13:32.202,2484,TCP  ,82.145.222.132,2283,Chrome,,Male,JP,Premium,English,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:42.147,3218,TCP  ,82.145.222.177,639,Chrome,,Female,CH,Normal,Spanish,58.65,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:42.147,4684,TCP  ,82.145.222.193,614,Chrome,,Female,US,Normal,French,0.0,Yes,450.12,Debit Card,2017-03-21
+2017-03-21 00:13:42.116,4840,TCP  ,82.145.222.198,3185,Chrome,,Male,IT,Premium,nepali,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:13:42.116,2927,TCP  ,82.145.222.232,2283,IOS App,,Male,US,Premium,English,23.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:13:51.064,2117,TCP  ,82.145.222.240,3185,IOS App,,Female,IN,Premium,Russian,0.0,Yes,28.462,Others,2017-03-21
+2017-03-21 00:13:51.064,2062,TCP  ,82.145.222.252,2267,IOS App,,Female,IT,Premium,English,35.84,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:00.950,2198,TCP  ,82.145.222.25,3185,IOS App,,Female,SE,Premium,English,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:00.950,3718,TCP  ,82.145.222.30,2267,IOS App,,Male,JP,Premium,English,0.0,Yes,162.64,Credit Card,2017-03-21
+2017-03-21 00:14:10.946,2704,TCP  ,82.145.222.45,3185,IOS App,,Male,IN,Premium,English,46.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:10.946,3014,TCP  ,82.145.222.48,2319,IOS App,,Male,US,Premium,English,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:14.058,2047,TCP  ,82.145.222.5,2267,Microsoft Edge,,Female,RU,Premium,Russian,1800.51,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:14:14.058,1553,TCP  ,82.145.222.96,3185,Microsoft Edge,,Female,CA,Premium,English,121.98,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:20.834,2468,TCP  ,82.145.223.0,3249,Microsoft Edge,,Female,IT,Premium,Arabic,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:20.834,3287,TCP  ,82.145.223.101,2163,Microsoft Edge,,Male,US,Premium,Spanish,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:23.024,1910,TCP  ,82.145.223.103,2267,Microsoft Edge,,Female,PR,Premium,English,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:23.024,3719,TCP  ,82.145.223.106,3185,Microsoft Edge,,Female,IT,Premium,English,600.17,No,0.0,Others,2017-03-21
+2017-03-21 00:14:28.516,3833,TCP  ,82.145.223.109,2163,Safari,,Male,CA,Premium,English,900.24,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:28.516,1894,TCP  ,82.145.223.110,3185,Safari,,Female,IT,Premium,English,60.6,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:30.669,4033,TCP  ,82.145.223.112,3185,Safari,,Female,RU,Premium,English,0.0,Yes,225.06,Debit Card,2017-03-21
+2017-03-21 00:14:30.669,2819,TCP  ,82.145.223.116,2371,Safari,,Female,SE,Premium,English,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:31.912,3715,TCP  ,82.145.223.13,2267,Others,,Female,GB,Premium,English,11.73,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:31.912,1592,TCP  ,82.145.223.141,3185,Others,,Male,IT,Premium,French,900.24,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:39.819,1569,TCP  ,82.145.223.142,3185,Others,,Male,US,Premium,English,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:39.819,1968,TCP  ,82.145.223.145,2267,Others,,Female,US,Premium,English,0.0,Yes,91.485,Cash,2017-03-21
+2017-03-21 00:14:42.304,2382,TCP  ,82.145.223.145,2279,Others,,Male,US,Premium,English,0.0,Yes,130.112,Cash,2017-03-21
+2017-03-21 00:14:42.304,2072,TCP  ,82.145.223.152,3305,Others,,Female,IT,Premium,English,10.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:47.686,2018,TCP  ,82.145.223.25,3185,Others,,Female,PL,Premium,English,35.19,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:14:47.686,4617,TCP  ,82.145.223.41,2283,Others,,Female,IT,Premium,English,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:54.204,4962,TCP  ,82.145.223.49,2267,Others,,Female,PL,Premium,English,35.19,No,0.0,Cash,2017-03-21
+2017-03-21 00:14:54.204,4077,TCP  ,82.145.223.51,3185,Others,,Female,CA,Premium,English,15.69,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:15:03.536,2469,TCP  ,82.145.223.58,2283,Safari,,Female,CO,Premium,nepali,0.0,Yes,28.462,Others,2017-03-21
+2017-03-21 00:15:03.536,1569,TCP  ,82.145.223.67,3185,Safari,,Female,PL,Premium,English,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:18:21.196,4030,TCP  ,82.145.223.84,40,Safari,,Male,JP,Premium,English,30.3,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:18:21.196,4696,TCP  ,82.145.223.85,46,Safari,,Male,CA,Premium,English,900.24,No,0.0,Others,2017-03-21
+2017-03-21 00:15:13.363,2994,TCP  ,82.151.220.77,2267,Safari,,Female,RU,Premium,Russian,5.23,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:15:13.363,2914,TCP  ,82.157.135.27,3185,Safari,,Female,AT,Premium,Dutch,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:22.217,4715,TCP  ,82.158.121.60,2283,IOS App,,Female,AU,Premium,English,2400.68,No,0.0,Others,2017-03-21
+2017-03-21 00:15:22.217,2091,TCP  ,82.158.121.60,3185,Microsoft Edge,,Female,CA,Premium,English,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:18:31.374,4959,TCP  ,82.158.121.60,40,Microsoft Edge,,Male,CH,Premium,English,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:18:31.374,4060,TCP  ,82.158.121.60,46,Microsoft Edge,,Male,CN,Premium,English,2400.68,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:18:26.770,2432,TCP  ,82.158.121.60,326,IOS App,,Female,PL,Premium,English,40.66,No,0.0,Others,2017-03-21
+2017-03-21 00:18:26.770,3527,TCP  ,82.158.121.60,413,IOS App,,Male,RU,Premium,English,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:18:27.637,4172,TCP  ,82.158.121.60,3249,IOS App,,Female,CN,Premium,English,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:18:27.637,4830,TCP  ,82.158.121.60,2261,IOS App,,Female,RU,Premium,English,0.0,Yes,1425.38,Cash,2017-03-21
+2017-03-21 00:15:31.231,4596,TCP  ,82.158.121.60,2163,IOS App,,Male,US,Premium,English,121.98,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:31.231,4831,TCP  ,82.158.121.60,3185,Chrome,,Female,AT,Premium,English,203.3,No,0.0,Others,2017-03-21
+2017-03-21 00:15:40.027,2754,TCP  ,82.161.113.241,2267,Chrome,,Male,CN,Premium,English,35.84,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:40.027,4246,TCP  ,82.161.176.215,3185,Chrome,,Female,CN,Premium,English,15.69,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:15:49.467,2097,TCP  ,82.165.138.186,2267,Chrome,,Female,US,Premium,English,1800.51,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:49.467,3293,TCP  ,82.165.138.186,3185,Chrome,,Male,PL,Premium,English,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:15:58.741,3347,TCP  ,82.165.138.186,2267,Chrome,,Female,US,Premium,English,5.23,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:15:58.741,4749,TCP  ,82.165.138.186,3185,Chrome,,Female,IT,Premium,English,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:07.635,4663,TCP  ,82.165.138.186,2283,Chrome,,Female,IT,Premium,English,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:16:07.635,3151,TCP  ,82.165.138.186,3185,Others,,Female,US,Premium,English,15.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:15.561,3645,TCP  ,82.165.138.186,2267,Others,,Female,CA,Premium,English,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:15.561,3098,TCP  ,82.165.138.186,3185,Others,,Male,CN,Premium,English,11.73,No,0.0,Others,2017-03-21
+2017-03-21 00:16:25.018,2826,TCP  ,82.165.138.186,2267,Others,,Male,US,Premium,English,71.68,No,0.0,Others,2017-03-21
+2017-03-21 00:16:25.018,3545,TCP  ,82.165.138.186,3185,Others,,Male,AU,Premium,English,0.0,Yes,675.18,Cash,2017-03-21
+2017-03-21 00:13:17.488,2209,TCP  ,82.165.138.186,335,Others,,Female,AT,Premium,English,10.46,No,0.0,Others,2017-03-21
+2017-03-21 00:13:17.488,3189,TCP  ,82.166.88.208,2833,Mozilla Firefox,,Male,CO,Premium,English,0.0,Yes,80.64,Debit Card,2017-03-21
+2017-03-21 00:16:40.214,4662,TCP  ,82.168.2.77,561,Mozilla Firefox,,Female,US,Normal,English,143.36,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.214,4422,TCP  ,82.178.140.38,589,Mozilla Firefox,,Female,US,Normal,Spanish,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.219,1889,TCP  ,82.178.35.62,1725,Mozilla Firefox,,Male,IT,Normal,English,1800.51,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:16:40.219,3453,TCP  ,82.18.192.176,579,Mozilla Firefox,,Male,US,Normal,English,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.243,2302,TCP  ,82.18.208.34,702,Mozilla Firefox,,Female,CH,Normal,English,0.0,Yes,3.661,Credit Card,2017-03-21
+2017-03-21 00:16:40.243,3845,TCP  ,82.19.144.147,586,Android App,,Male,IT,Normal,English,45.45,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.244,3164,TCP  ,82.193.122.28,556,Android App,,Female,JP,Normal,Russian,5250.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:16:40.244,4719,TCP  ,82.193.155.237,515,Android App,,Female,PR,Normal,Russian,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.552,2312,TCP  ,82.193.96.12,702,Android App,,Male,CA,Normal,Russian,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.552,2531,TCP  ,82.193.98.79,586,Android App,,Female,US,Normal,Spanish,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.552,1513,TCP  ,82.193.99.148,556,Android App,,Female,NO,Normal,Russian,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.552,4885,TCP  ,82.193.99.149,515,Android App,,Female,RU,Normal,Russian,3000.85,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:40.596,4204,TCP  ,82.194.10.14,561,Android App,,Male,AR,Normal,English,1500.4,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:16:40.596,3181,TCP  ,82.198.110.156,589,Android App,,Female,IN,Normal,English,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:16:33.976,3740,TCP  ,82.199.223.92,2267,Android App,,Female,US,Premium,English,5.23,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:16:33.976,4352,TCP  ,82.199.37.92,3185,Android App,,Female,IT,Premium,English,1800.51,No,0.0,Others,2017-03-21
+2017-03-21 00:16:42.367,3230,TCP  ,82.20.167.90,2267,Android App,,Female,IT,Premium,English,0.0,Yes,31.815,Debit Card,2017-03-21
+2017-03-21 00:16:42.367,3648,TCP  ,82.2.197.50,3185,Android App,,Female,IT,Premium,English,0.0,Yes,19.6125,Debit Card,2017-03-21
+2017-03-21 00:19:52.787,3822,TCP  ,82.202.114.260,46,Android App,,Female,IT,Premium,English,71.68,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:19:52.787,3907,TCP  ,82.205.24.260,40,Android App,,Female,US,Premium,English,5.23,No,0.0,Others,2017-03-21
+2017-03-21 00:19:44.716,2181,TCP  ,82.205.50.235,2157,Android App,,Female,CA,Premium,English,0.0,Yes,28.462,Cash,2017-03-21
+2017-03-21 00:19:44.716,4663,TCP  ,82.207.113.115,3237,Android App,,Female,IT,Premium,Russian,23.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:55.881,3175,TCP  ,82.207.19.174,40,Android App,,Male,IT,Premium,Russian,0.0,Yes,10.605,Debit Card,2017-03-21
+2017-03-21 00:19:55.881,4197,TCP  ,82.207.20.187,46,Android App,,Male,PL,Premium,Spanish,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:16:50.841,1898,TCP  ,82.207.52.257,2267,Android App,,Female,JP,Premium,Spanish,1500.4,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:16:50.841,1527,TCP  ,82.207.87.176,3185,Android App,,Female,IT,Premium,Russian,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:17:00.342,4703,TCP  ,82.208.199.13,2267,Android App,,Female,CN,Premium,Spanish,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:17:00.342,4034,TCP  ,82.209.194.51,3185,Chrome,,Female,US,Premium,English,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:32.329,1791,TCP  ,82.211.130.174,255,Mozilla Firefox,,Male,US,Premium,Russian,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:32.329,3230,TCP  ,82.211.19.57,2457,Mozilla Firefox,,Male,US,Premium,serbian,2100.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:17:09.174,1731,TCP  ,82.213.215.16,2267,Mozilla Firefox,,Female,SE,Premium,English,0.0,Yes,25.088,Cash,2017-03-21
+2017-03-21 00:17:09.174,4437,TCP  ,82.216.110.53,3185,Mozilla Firefox,,Female,RU,Premium,French,0.0,Yes,1425.38,Cash,2017-03-21
+2017-03-21 00:20:07.925,2083,TCP  ,82.216.113.98,3249,Mozilla Firefox,,Male,CN,Premium,English,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:07.925,1599,TCP  ,82.224.112.94,2261,Mozilla Firefox,,Female,NO,Premium,French,10.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:17:18.046,1954,TCP  ,82.225.125.11,2267,Mozilla Firefox,,Female,IN,Premium,French,15.69,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:17:18.046,2591,TCP  ,82.226.232.152,3185,Mozilla Firefox,,Female,IT,Premium,English,58.65,No,0.0,Cash,2017-03-21
+2017-03-21 00:20:28.470,3505,TCP  ,82.228.181.38,46,Mozilla Firefox,,Female,IT,Premium,English,0.0,Yes,450.1275,Cash,2017-03-21
+2017-03-21 00:20:28.470,3456,TCP  ,82.230.22.30,40,Mozilla Firefox,,Female,PL,Premium,English,11.73,No,0.0,Cash,2017-03-21
+2017-03-21 00:17:26.409,1739,TCP  ,82.23.195.260,2215,Android App,,Male,JP,Premium,English,46.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:17:26.409,2773,TCP  ,82.23.70.212,3185,Chrome,,Female,CH,Premium,English,1500.4,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:20:38.674,2905,TCP  ,82.232.242.129,46,Chrome,,Female,US,Premium,English,121.98,No,0.0,Others,2017-03-21
+2017-03-21 00:20:38.674,4853,TCP  ,82.232.26.210,40,Chrome,,Male,IT,Premium,Spanish,15.69,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:28.392,1713,TCP  ,82.232.82.30,381,Chrome,,Female,US,Premium,English,900.24,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:28.392,2930,TCP  ,82.233.21.162,5497,Chrome,,Female,IN,Premium,English,23.46,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:17:36.079,4837,TCP  ,82.235.168.233,2267,Chrome,,Female,IT,Premium,French,600.17,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:17:36.079,1830,TCP  ,82.236.122.124,3185,IOS App,,Female,SE,Premium,French,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:17:45.703,3751,TCP  ,82.236.194.165,2279,IOS App,,Male,JP,Premium,French,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:17:45.703,4970,TCP  ,82.237.92.154,3305,IOS App,,Male,IN,Premium,English,121.98,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:16:12.017,4792,TCP  ,82.238.248.247,283,IOS App,,Female,US,Premium,English,0.0,Yes,10.605,Debit Card,2017-03-21
+2017-03-21 00:16:12.017,4270,TCP  ,82.239.143.13,8617,IOS App,,Female,RU,Premium,English,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:16.514,1981,TCP  ,82.240.100.256,40,IOS App,,Female,CA,Premium,French,5250.0,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:21:16.514,4128,TCP  ,82.240.239.94,46,IOS App,,Female,IT,Premium,French,0.0,Yes,28.462,Others,2017-03-21
+2017-03-21 00:18:17.824,4173,TCP  ,82.24.84.239,3185,Microsoft Edge,,Female,IT,Premium,English,20.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:18:17.824,4233,TCP  ,82.242.11.131,2267,Microsoft Edge,,Male,CA,Premium,French,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:28.255,3831,TCP  ,82.243.92.39,353,Microsoft Edge,,Male,IT,Premium,English,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:28.255,3876,TCP  ,82.247.48.210,1405,Microsoft Edge,,Female,RU,Premium,English,81.32,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:18:36.844,2539,TCP  ,82.249.140.63,3185,Safari,,Female,SE,Premium,French,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:18:36.844,2059,TCP  ,82.250.149.261,2267,Safari,,Male,GB,Premium,French,35.19,No,0.0,Others,2017-03-21
+2017-03-21 00:18:43.176,2909,TCP  ,82.250.72.145,2267,Safari,,Female,IT,Premium,French,0.0,Yes,3.661,Credit Card,2017-03-21
+2017-03-21 00:18:43.176,4691,TCP  ,82.26.199.131,3249,Safari,,Male,US,Premium,English,15.69,No,0.0,Cash,2017-03-21
+2017-03-21 00:18:47.087,2144,TCP  ,82.26.224.102,3185,Others,,Female,US,Premium,English,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:18:47.087,4053,TCP  ,82.26.234.258,2267,Others,,Male,US,Premium,English,1800.51,No,0.0,Cash,2017-03-21
+2017-03-21 00:18:55.853,1856,TCP  ,82.26.50.45,3185,Others,,Female,IT,Premium,English,0.0,Yes,1425.38,Cash,2017-03-21
+2017-03-21 00:18:55.853,4211,TCP  ,82.27.115.91,2267,Others,,Male,PL,Premium,English,26.15,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:17:11.205,2166,TCP  ,82.27.115.91,283,Others,,Female,IT,Premium,English,2400.68,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:17:11.205,4791,TCP  ,82.27.200.56,8605,Others,,Male,PL,Premium,English,0.0,Yes,450.1275,Credit Card,2017-03-21
+2017-03-21 00:19:08.485,2506,TCP  ,82.28.6.208,1586,Others,,Female,CA,Premium,English,20.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:08.485,4192,TCP  ,82.29.12.12,2545,Others,,Male,CO,Premium,English,20.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:05.260,1598,TCP  ,82.29.26.248,3185,Others,,Female,PL,Premium,English,5.23,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:05.260,4789,TCP  ,82.3.15.94,2163,Others,,Female,JP,Premium,English,2100.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:15.585,3594,TCP  ,82.3.89.126,3185,Safari,,Male,CA,Premium,English,11.73,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:15.585,3483,TCP  ,82.31.230.110,2267,Safari,,Female,RU,Premium,English,58.65,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:26.009,4795,TCP  ,82.31.81.46,3185,Safari,,Male,AT,Premium,Russian,143.36,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:26.009,2837,TCP  ,82.32.200.53,2267,Safari,,Male,AU,Premium,English,10.46,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:40.246,1922,TCP  ,82.32.27.142,702,Safari,,Male,CA,Normal,English,0.0,Yes,1080.306,Credit Card,2017-03-21
+2017-03-21 00:19:40.246,2264,TCP  ,82.32.3.211,586,Safari,,Male,CH,Normal,English,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:40.246,3408,TCP  ,82.32.63.234,556,IOS App,,Male,CN,Normal,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:40.246,4679,TCP  ,82.34.146.19,515,Microsoft Edge,,Female,PL,Normal,English,5.23,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:40.552,4257,TCP  ,82.34.2.102,702,Microsoft Edge,,Female,RU,Normal,English,0.0,Yes,80.64,Credit Card,2017-03-21
+2017-03-21 00:19:40.552,3662,TCP  ,82.34.78.42,586,Microsoft Edge,,Female,CN,Normal,English,58.65,No,0.0,Others,2017-03-21
+2017-03-21 00:19:40.552,1598,TCP  ,82.36.209.145,556,IOS App,,Female,RU,Normal,English,1800.51,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:19:40.552,3135,TCP  ,82.36.211.187,515,IOS App,,Male,US,Normal,English,0.0,Yes,3.661,Cash,2017-03-21
+2017-03-21 00:19:41.603,2928,TCP  ,82.37.45.231,639,IOS App,,Female,AT,Normal,English,900.24,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:41.603,4079,TCP  ,82.38.182.41,614,IOS App,,Female,JP,Normal,English,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:42.031,1924,TCP  ,82.38.192.128,639,IOS App,,Female,CN,Normal,English,600.16,No,0.0,Others,2017-03-21
+2017-03-21 00:19:42.031,3781,TCP  ,82.38.215.123,614,Chrome,,Female,CN,Normal,English,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:36.320,4703,TCP  ,82.38.249.72,3197,Chrome,,Female,CN,Premium,English,121.98,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:19:36.320,2224,TCP  ,82.39.135.130,2267,Chrome,,Female,US,Premium,English,0.0,Yes,56.8125,Cash,2017-03-21
+2017-03-21 00:22:54.095,3655,TCP  ,82.39.42.127,46,Chrome,,Female,PL,Premium,English,0.0,Yes,8.211,Credit Card,2017-03-21
+2017-03-21 00:22:54.095,2887,TCP  ,82.40.80.142,40,Chrome,,Female,US,Premium,Spanish,0.0,Yes,1140.304,Credit Card,2017-03-21
+2017-03-21 00:19:47.318,1614,TCP  ,82.41.124.82,3185,Chrome,,Female,IT,Premium,English,1800.51,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:47.318,1681,TCP  ,82.41.14.54,2163,Chrome,,Male,IT,Premium,English,121.98,No,0.0,Cash,2017-03-21
+2017-03-21 00:22:28.069,2730,TCP  ,82.42.69.252,277,Chrome,,Female,US,Premium,English,600.16,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:22:28.069,4610,TCP  ,82.42.98.95,4510,Chrome,,Female,CA,Premium,English,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:57.450,2185,TCP  ,82.43.220.197,3185,Chrome,,Female,CN,Premium,English,1800.51,No,0.0,Cash,2017-03-21
+2017-03-21 00:19:57.450,3945,TCP  ,82.44.35.241,2267,Others,,Female,US,Premium,Spanish,600.17,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:20:17.691,4729,TCP  ,82.45.249.234,3185,Others,,Male,AU,Premium,English,26.15,No,0.0,Others,2017-03-21
+2017-03-21 00:20:17.691,1702,TCP  ,82.5.14.231,2267,Others,,Male,AT,Premium,English,5250.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:23:25.691,3530,TCP  ,82.56.123.61,441,Others,,Female,CO,Premium,italian,0.0,Yes,56.924,Debit Card,2017-03-21
+2017-03-21 00:23:25.691,4907,TCP  ,82.58.76.16,4565,Others,,Male,US,Premium,English,3000.85,No,0.0,Cash,2017-03-21
+2017-03-21 00:20:27.880,3881,TCP  ,82.6.16.222,3185,Others,,Male,US,Premium,English,35.84,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:27.880,3287,TCP  ,82.6.28.158,2163,Mozilla Firefox,,Female,IT,Premium,English,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:20:37.655,3403,TCP  ,82.6.90.261,3185,Mozilla Firefox,,Female,US,Premium,English,2100.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:37.655,1673,TCP  ,82.68.150.141,2267,Mozilla Firefox,,Male,CH,Premium,English,0.0,Yes,675.18,Cash,2017-03-21
+2017-03-21 00:20:47.111,1550,TCP  ,82.68.9.29,3237,Mozilla Firefox,,Female,IT,Premium,English,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:47.111,2953,TCP  ,82.69.19.109,2179,Mozilla Firefox,,Male,JP,Premium,English,203.3,No,0.0,Others,2017-03-21
+2017-03-21 00:20:49.535,2864,TCP  ,82.69.41.233,2163,Mozilla Firefox,,Male,PR,Premium,English,0.0,Yes,3780.0,Credit Card,2017-03-21
+2017-03-21 00:20:49.535,3873,TCP  ,82.7.30.231,3185,Android App,,Male,CA,Premium,English,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:20:57.420,4363,TCP  ,82.73.249.16,3185,Android App,,Female,US,Premium,English,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:20:57.420,3158,TCP  ,82.73.41.155,2267,Android App,,Male,NO,Premium,Dutch,15.69,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:21:06.752,4774,TCP  ,82.75.108.87,3185,Android App,,Female,RU,Premium,English,143.36,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:06.752,3259,TCP  ,82.76.191.242,2371,Android App,,Female,AR,Premium,Russian,5250.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:15.957,3838,TCP  ,82.78.223.154,3305,Android App,,Male,IN,Premium,English,600.17,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:15.957,3098,TCP  ,82.80.190.118,2383,Android App,,Male,US,Premium,English,0.0,Yes,56.924,Debit Card,2017-03-21
+2017-03-21 00:21:25.341,1920,TCP  ,82.80.196.51,3185,Android App,,Male,IT,Premium,Russian,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:25.341,1686,TCP  ,82.80.21.107,2267,Android App,,Female,IT,Premium,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:24:33.376,3540,TCP  ,82.80.216.19,374,Android App,,Male,IT,Premium,German,0.0,Yes,56.924,Others,2017-03-21
+2017-03-21 00:24:33.376,1646,TCP  ,82.8.213.245,2385,Android App,,Female,IT,Premium,English,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:40.214,1587,TCP  ,82.84.148.198,561,Android App,,Male,US,Normal,italian,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:40.214,3648,TCP  ,82.9.244.192,589,Android App,,Female,CA,Normal,English,0.0,Yes,91.485,Credit Card,2017-03-21
+2017-03-21 00:21:40.215,4716,TCP  ,82.99.221.89,1725,Android App,,Female,IT,Normal,persian,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:40.215,2782,TCP  ,83.10.209.51,579,Android App,,Male,IT,Normal,polish,35.84,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:40.597,2678,TCP  ,83.101.42.177,561,Android App,,Male,PL,Normal,French,600.16,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:21:40.597,3344,TCP  ,83.110.110.181,589,Android App,,Female,JP,Normal,English,30.3,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:24:28.374,3811,TCP  ,83.110.15.109,166,Android App,,Female,AT,Premium,English,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:24:28.374,1589,TCP  ,83.110.192.178,360,Android App,,Female,JP,Premium,English,10.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:21:34.616,2888,TCP  ,83.110.195.621,3185,Android App,,Female,CN,Premium,English,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:34.616,3371,TCP  ,83.110.195.675,2267,Android App,,Female,CN,Premium,English,179.2,No,0.0,Others,2017-03-21
+2017-03-21 00:24:49.984,3425,TCP  ,83.110.197.240,46,Android App,,Male,CN,Premium,English,0.0,Yes,28.462,Credit Card,2017-03-21
+2017-03-21 00:24:49.984,3887,TCP  ,83.110.197.240,40,Chrome,,Female,US,Premium,English,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:43.952,2535,TCP  ,83.110.203.227,3289,Mozilla Firefox,,Male,PL,Premium,English,3000.85,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:21:43.952,2474,TCP  ,83.112.13.62,2383,Mozilla Firefox,,Female,US,Premium,French,203.3,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:24:57.592,1960,TCP  ,83.128.113.201,40,Mozilla Firefox,,Female,IT,Premium,Dutch,5.23,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:24:57.592,3896,TCP  ,83.128.180.54,46,Mozilla Firefox,,Male,IT,Premium,English,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:55.099,2605,TCP  ,83.131.72.145,2163,Mozilla Firefox,,Female,US,Premium,English,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:21:55.099,2276,TCP  ,83.134.13.166,3185,Mozilla Firefox,,Male,CA,Premium,English,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:32.455,3390,TCP  ,83.136.3.43,359,Mozilla Firefox,,Male,CN,Premium,English,1050.0,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:32.455,2954,TCP  ,83.137.1.229,1293,Mozilla Firefox,,Female,US,Premium,English,0.0,Yes,450.12,Cash,2017-03-21
+2017-03-21 00:22:40.245,3441,TCP  ,83.139.146.136,702,Mozilla Firefox,,Female,AU,Normal,Russian,121.98,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:22:40.245,2693,TCP  ,83.143.242.100,586,Mozilla Firefox,,Male,AT,Normal,English,15.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:22:40.245,2466,TCP  ,83.145.69.57,556,Android App,,Male,CO,Normal,English,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:22:40.245,4202,TCP  ,83.147.220.204,515,Chrome,,Male,US,Normal,persian,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:22:40.552,4475,TCP  ,83.149.21.111,702,Chrome,,Female,US,Normal,Russian,1050.0,No,0.0,Others,2017-03-21
+2017-03-21 00:22:40.552,4744,TCP  ,83.149.21.18,586,Chrome,,Female,IT,Normal,Russian,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:22:40.552,2089,TCP  ,83.149.21.202,556,Chrome,,Female,US,Normal,Russian,20.92,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:22:40.552,4265,TCP  ,83.149.21.41,515,Chrome,,Female,CH,Normal,Russian,0.0,Yes,2700.765,Others,2017-03-21
+2017-03-21 00:25:47.856,4099,TCP  ,83.150.21.197,46,Chrome,,Male,IT,Premium,Spanish,10.46,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:25:47.856,3809,TCP  ,83.151.234.94,40,IOS App,,Male,JP,Premium,English,1050.0,No,0.0,Cash,2017-03-21
+2017-03-21 00:22:57.368,2015,TCP  ,83.152.2.58,2295,IOS App,,Male,PR,Premium,English,0.0,Yes,225.06,Others,2017-03-21
+2017-03-21 00:22:57.368,4847,TCP  ,83.156.210.120,4225,IOS App,,Female,CA,Premium,English,30.3,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:26:27.931,2606,TCP  ,83.160.124.142,375,IOS App,,Female,US,Premium,Dutch,71.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:26:27.931,3761,TCP  ,83.160.50.124,2490,IOS App,,Female,NO,Premium,Dutch,0.0,Yes,225.06,Debit Card,2017-03-21
+2017-03-21 00:27:04.019,2233,TCP  ,83.163.211.16,46,IOS App,,Female,RU,Premium,English,40.66,No,0.0,Others,2017-03-21
+2017-03-21 00:27:04.019,4772,TCP  ,83.166.172.233,40,IOS App,,Female,AR,Premium,English,0.0,Yes,1080.306,Cash,2017-03-21
+2017-03-21 00:26:57.412,4572,TCP  ,83.170.196.153,4318,Microsoft Edge,,Male,IT,Premium,Spanish,0.0,Yes,675.18,Cash,2017-03-21
+2017-03-21 00:26:57.412,1736,TCP  ,83.175.75.78,2173,Microsoft Edge,,Female,IT,Premium,German,0.0,Yes,10.983,Others,2017-03-21
+2017-03-21 00:24:05.397,4853,TCP  ,83.178.0.159,2215,Microsoft Edge,,Female,IT,Premium,English,1500.4,No,0.0,Others,2017-03-21
+2017-03-21 00:24:05.397,4962,TCP  ,83.180.123.135,3145,Microsoft Edge,,Male,IT,Premium,Spanish,179.2,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:15.278,3535,TCP  ,83.185.88.252,40,Safari,,Female,US,Premium,swedish,0.0,Yes,2700.765,Cash,2017-03-21
+2017-03-21 00:27:15.278,2364,TCP  ,83.193.39.132,46,Safari,,Male,CA,Premium,French,900.24,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:09.298,4133,TCP  ,83.197.50.142,92,Safari,,Female,IT,Premium,English,0.0,Yes,450.12,Cash,2017-03-21
+2017-03-21 00:27:09.298,1813,TCP  ,83.198.13.168,264,Safari,,Male,IT,Premium,English,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:53.624,3071,TCP  ,83.200.102.80,92,Others,,Male,PL,Premium,French,75.75,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:53.624,3702,TCP  ,83.200.204.130,176,Others,,Female,JP,Premium,French,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:25.651,4281,TCP  ,83.20.128.171,354,Others,,Female,IT,Premium,English,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:25.651,4532,TCP  ,83.204.6.68,803,Others,,Male,CN,Premium,French,58.65,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:05.916,3359,TCP  ,83.212.115.204,2283,Others,,Female,US,Premium,English,71.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:05.916,2980,TCP  ,83.213.37.61,3185,Others,,Male,US,Premium,English,162.64,No,0.0,Others,2017-03-21
+2017-03-21 00:25:10.376,3332,TCP  ,83.217.10.1297,4333,Others,,Male,US,Premium,English,179.2,No,0.0,Others,2017-03-21
+2017-03-21 00:25:10.376,2179,TCP  ,83.217.10.1382,2223,Others,,Female,SE,Premium,English,0.0,Yes,50.176,Cash,2017-03-21
+2017-03-21 00:28:14.785,4891,TCP  ,83.218.151.25,4889,Others,,Female,RU,Premium,English,30.3,No,0.0,Others,2017-03-21
+2017-03-21 00:28:14.785,2802,TCP  ,83.220.236.1193,2353,Others,,Female,CN,Premium,Russian,71.68,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:25:21.469,4115,TCP  ,83.220.236.1290,3305,Safari,,Male,NO,Premium,Russian,0.0,Yes,28.462,Cash,2017-03-21
+2017-03-21 00:25:21.469,1939,TCP  ,83.220.237.112,2267,Safari,,Male,IN,Premium,Russian,20.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:40.868,2138,TCP  ,83.220.237.118,746,Safari,,Female,IT,Premium,Russian,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:40.868,3322,TCP  ,83.220.238.198,1705,Safari,,Male,IT,Premium,Russian,71.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:40.246,4632,TCP  ,83.220.238.21,702,Safari,,Male,PL,Normal,Russian,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:25:40.246,2217,TCP  ,83.220.238.46,586,Safari,,Female,JP,Normal,Russian,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:40.246,2739,TCP  ,83.220.238.84,556,IOS App,,Male,CH,Normal,English,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:25:40.246,3131,TCP  ,83.220.239.2092,515,Microsoft Edge,,Female,US,Normal,Russian,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:40.562,2404,TCP  ,83.220.239.2256,702,Microsoft Edge,,Female,IT,Normal,Russian,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:40.562,4903,TCP  ,83.221.191.40,586,Microsoft Edge,,Female,US,Normal,Russian,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:40.562,2207,TCP  ,83.228.142.246,556,IOS App,,Female,IN,Normal,English,121.98,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:40.562,3970,TCP  ,83.237.116.108,515,IOS App,,Female,IT,Normal,Russian,58.65,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:32.905,4642,TCP  ,83.238.63.29,3185,IOS App,,Female,SE,Premium,English,26.15,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:25:32.905,4000,TCP  ,83.240.189.105,2163,IOS App,,Female,JP,Premium,English,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:41.755,4733,TCP  ,83.240.56.210,639,IOS App,,Female,IN,Normal,English,3000.85,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:25:41.755,2639,TCP  ,83.244.172.217,614,Chrome,,Female,US,Normal,English,600.17,No,0.0,Others,2017-03-21
+2017-03-21 00:25:42.158,3338,TCP  ,83.244.204.142,639,Chrome,,Female,RU,Normal,English,143.36,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:25:42.158,3425,TCP  ,83.245.236.41,614,Chrome,,Female,CA,Normal,Spanish,40.66,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:28:42.220,4332,TCP  ,83.245.239.262,92,Chrome,,Female,IT,Premium,Spanish,1500.4,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:28:42.220,2128,TCP  ,83.249.16.102,44,Chrome,,Male,US,Premium,English,203.3,No,0.0,Others,2017-03-21
+2017-03-21 00:25:41.702,2133,TCP  ,83.250.165.241,3369,Chrome,,Female,PR,Premium,English,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:41.702,2791,TCP  ,83.251.63.164,2383,Chrome,,Male,IT,Premium,swedish,71.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:25:52.041,3791,TCP  ,83.254.244.176,5681,Chrome,,Male,CA,Premium,English,20.92,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:25:52.041,1739,TCP  ,83.255.167.111,2283,Chrome,,Female,IT,Premium,English,1800.51,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:26:07.577,1950,TCP  ,83.255.214.73,3185,Chrome,,Male,RU,Premium,English,0.0,Yes,56.924,Debit Card,2017-03-21
+2017-03-21 00:26:07.577,4685,TCP  ,83.26.251.181,2163,Others,,Male,SE,Premium,English,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:26:03.845,3467,TCP  ,83.28.107.252,2395,Others,,Male,GB,Premium,polish,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:26:03.845,3192,TCP  ,83.28.146.61,4449,Others,,Female,IT,Premium,Spanish,35.19,No,0.0,Cash,2017-03-21
+2017-03-21 00:29:17.718,4419,TCP  ,83.36.120.230,322,Others,,Male,US,Premium,Spanish,46.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:29:17.718,1776,TCP  ,83.36.183.156,430,Others,,Female,US,Premium,English,121.98,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:26:17.130,3526,TCP  ,83.41.142.248,3301,Others,,Female,US,Premium,Spanish,58.65,No,0.0,Cash,2017-03-21
+2017-03-21 00:26:17.130,3241,TCP  ,83.41.31.45,2231,Mozilla Firefox,,Male,IT,Premium,Spanish,26.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:26:40.214,3711,TCP  ,83.44.206.73,561,Mozilla Firefox,,Female,PL,Normal,English,0.0,Yes,2280.646,Credit Card,2017-03-21
+2017-03-21 00:26:40.214,2871,TCP  ,83.45.172.247,589,Mozilla Firefox,,Female,IT,Normal,Spanish,0.0,Yes,3780.0,Cash,2017-03-21
+2017-03-21 00:26:40.217,4177,TCP  ,83.52.225.116,1725,Mozilla Firefox,,Female,PL,Normal,English,162.64,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:26:40.217,3004,TCP  ,83.54.210.174,579,Mozilla Firefox,,Male,CA,Normal,Spanish,0.0,Yes,10.983,Cash,2017-03-21
+2017-03-21 00:26:40.604,3767,TCP  ,83.57.36.179,561,Mozilla Firefox,,Male,CO,Normal,Spanish,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:26:40.604,1603,TCP  ,83.65.45.100,589,Android App,,Male,PL,Normal,German,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:29:41.834,3210,TCP  ,83.68.35.92,46,Android App,,Male,CA,Premium,Russian,0.0,Yes,162.64,Cash,2017-03-21
+2017-03-21 00:29:41.834,2315,TCP  ,83.70.62.194,40,Android App,,Female,AR,Premium,English,203.3,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:26:26.745,2584,TCP  ,83.77.36.246,9821,Android App,,Female,PL,Premium,English,26.15,No,0.0,Others,2017-03-21
+2017-03-21 00:26:26.745,2889,TCP  ,83.78.6.189,2699,Android App,,Male,IN,Premium,English,0.0,Yes,1080.306,Credit Card,2017-03-21
+2017-03-21 00:26:40.513,3262,TCP  ,83.82.208.184,3255,Android App,,Female,KR,Premium,Dutch,0.0,Yes,450.12,Credit Card,2017-03-21
+2017-03-21 00:26:40.513,3796,TCP  ,83.82.33.32,5662,Android App,,Female,CA,Premium,English,5.23,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:02.172,4897,TCP  ,83.84.59.137,2267,Android App,,Female,CN,Premium,Dutch,0.0,Yes,24.633,Credit Card,2017-03-21
+2017-03-21 00:27:02.172,2433,TCP  ,83.85.82.91,3185,Android App,,Female,AT,Premium,English,0.0,Yes,56.924,Cash,2017-03-21
+2017-03-21 00:27:05.341,4632,TCP  ,83.86.23.199,2163,Android App,,Female,US,Premium,English,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:05.341,1567,TCP  ,83.89.62.134,3185,Android App,,Female,CA,Premium,Spanish,15.69,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:11.983,3375,TCP  ,83.99.241.12,2267,Android App,,Female,FR,Premium,German,15.15,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:11.983,2830,TCP  ,84.10.173.173,3185,Android App,,Male,CH,Premium,polish,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:08.488,3885,TCP  ,84.10.60.181,5737,Android App,,Male,IN,Premium,English,2400.68,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:08.488,1630,TCP  ,84.1.116.9,3339,Android App,,Male,IN,Premium,German,0.0,Yes,45.45,Others,2017-03-21
+2017-03-21 00:30:14.151,3402,TCP  ,84.101.179.84,2157,Android App,,Male,US,Premium,French,2400.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:30:14.151,4663,TCP  ,84.105.137.96,3249,Android App,,Female,NO,Premium,Dutch,107.52,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:21.111,2270,TCP  ,84.106.102.160,2163,Android App,,Female,IN,Premium,Russian,26.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:21.111,2953,TCP  ,84.106.102.160,3185,Android App,,Male,JP,Premium,Russian,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:23.240,3005,TCP  ,84.106.135.146,3185,Android App,,Female,PL,Premium,English,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:23.240,3880,TCP  ,84.107.146.154,2163,Android App,,Female,GB,Premium,English,40.66,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:27:31.679,3544,TCP  ,84.109.86.178,1586,Android App,,Male,CA,Premium,German,121.98,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:31.679,2460,TCP  ,84.111.211.111,2545,Chrome,,Female,SE,Premium,English,0.0,Yes,1425.38,Others,2017-03-21
+2017-03-21 00:27:30.160,2946,TCP  ,84.111.65.84,2319,Mozilla Firefox,,Female,JP,Premium,English,2400.68,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:30.160,4642,TCP  ,84.112.162.100,3185,Mozilla Firefox,,Male,CH,Premium,German,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:32.966,2515,TCP  ,84.114.86.255,3185,Mozilla Firefox,,Male,US,Premium,Spanish,46.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:32.966,1772,TCP  ,84.115.17.220,2163,Mozilla Firefox,,Male,CA,Premium,English,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:38.779,2780,TCP  ,84.117.72.145,2267,Mozilla Firefox,,Female,AT,Premium,Russian,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:38.779,3393,TCP  ,84.117.72.145,3249,Mozilla Firefox,,Female,CA,Premium,Russian,15.69,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:30:49.716,3345,TCP  ,84.118.137.258,46,Mozilla Firefox,,Male,NO,Premium,English,600.17,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:30:49.716,1775,TCP  ,84.120.134.138,40,Mozilla Firefox,,Female,CA,Premium,English,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:41.372,3462,TCP  ,84.120.3.149,3305,Mozilla Firefox,,Female,MX,Premium,English,75.75,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:41.372,3527,TCP  ,84.121.254.118,2383,Mozilla Firefox,,Male,CA,Premium,Spanish,30.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:47.952,4506,TCP  ,84.122.83.145,2319,Android App,,Male,IT,Premium,Spanish,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:27:47.952,4151,TCP  ,84.123.72.220,3185,Chrome,,Female,US,Premium,English,0.0,Yes,162.64,Credit Card,2017-03-21
+2017-03-21 00:27:51.317,4948,TCP  ,84.123.9.116,4437,Chrome,,Male,US,Premium,English,15.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:51.317,4072,TCP  ,84.125.196.87,2239,Chrome,,Female,US,Premium,Portuguese,15.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:57.589,4975,TCP  ,84.125.228.118,2267,Chrome,,Female,IT,Premium,Spanish,1800.51,No,0.0,Cash,2017-03-21
+2017-03-21 00:27:57.589,2599,TCP  ,84.126.115.37,3185,Chrome,,Female,RU,Premium,English,15.15,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:02.213,1787,TCP  ,84.126.178.99,3605,Chrome,,Female,RU,Premium,English,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:02.213,2758,TCP  ,84.128.247.177,2223,IOS App,,Female,JP,Premium,Russian,121.98,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:07.577,4691,TCP  ,84.130.26.80,2267,IOS App,,Male,IT,Premium,English,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:07.577,2828,TCP  ,84.143.104.51,3185,IOS App,,Female,US,Premium,German,600.17,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:07.962,1742,TCP  ,84.15.170.42,2163,IOS App,,Female,IT,Premium,English,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:07.962,4237,TCP  ,84.15.181.91,3185,IOS App,,Female,CA,Premium,German,3000.85,No,0.0,Others,2017-03-21
+2017-03-21 00:31:15.202,4738,TCP  ,84.152.79.44,166,IOS App,,Female,JP,Premium,English,0.0,Yes,1140.304,Debit Card,2017-03-21
+2017-03-21 00:31:15.202,2084,TCP  ,84.154.143.108,240,IOS App,,Female,IT,Premium,English,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:17.047,4583,TCP  ,84.155.89.228,2267,Microsoft Edge,,Female,IT,Premium,German,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:17.047,3128,TCP  ,84.158.147.136,3185,Microsoft Edge,,Female,US,Premium,English,71.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:25.678,3814,TCP  ,84.158.149.249,2267,Microsoft Edge,,Male,CA,Premium,English,0.0,Yes,28.462,Others,2017-03-21
+2017-03-21 00:28:25.678,3653,TCP  ,84.160.236.228,3185,Microsoft Edge,,Male,CN,Premium,English,600.17,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:40.245,4437,TCP  ,84.160.28.60,702,Microsoft Edge,,Female,CN,Normal,English,0.0,Yes,7.322,Credit Card,2017-03-21
+2017-03-21 00:28:40.245,4480,TCP  ,84.169.152.8,586,Microsoft Edge,,Female,US,Normal,German,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:40.246,2564,TCP  ,84.169.154.119,556,Safari,,Male,IT,Normal,German,5.23,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:40.246,2889,TCP  ,84.17.27.252,515,Safari,,Male,CA,Normal,English,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:40.565,3731,TCP  ,84.177.102.81,702,Safari,,Male,CN,Normal,English,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:40.565,2711,TCP  ,84.18.121.71,586,Safari,,Female,US,Normal,Russian,0.0,Yes,7.322,Cash,2017-03-21
+2017-03-21 00:28:40.567,3561,TCP  ,84.182.18.170,556,Others,,Male,CA,Normal,English,5250.0,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:28:40.567,3670,TCP  ,84.182.60.8,515,Others,,Male,AR,Normal,English,0.0,Yes,130.112,Cash,2017-03-21
+2017-03-21 00:28:31.985,1965,TCP  ,84.182.74.81,3185,Others,,Male,GB,Premium,English,0.0,Yes,50.176,Cash,2017-03-21
+2017-03-21 00:28:31.985,1896,TCP  ,84.186.62.34,2163,Others,,Male,DE,Premium,German,600.16,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:28:35.124,3808,TCP  ,84.189.202.172,2163,Others,,Female,US,Premium,Spanish,600.16,No,0.0,Others,2017-03-21
+2017-03-21 00:28:35.124,2597,TCP  ,84.193.9.235,3305,Others,,Male,IN,Premium,Dutch,600.16,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:31:20.222,3985,TCP  ,84.195.133.158,1029,Others,,Female,IN,Premium,English,900.24,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:31:20.222,3262,TCP  ,84.195.170.87,6597,Others,,Male,IN,Premium,Dutch,5.23,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:45.830,3568,TCP  ,84.200.14.72,2267,Others,,Female,IN,Premium,German,1800.51,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:45.830,3821,TCP  ,84.200.172.121,3185,Others,,Male,PL,Premium,English,10.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:42.579,4020,TCP  ,84.201.244.132,2040,Safari,,Male,GB,Premium,English,0.0,Yes,4725.0,Credit Card,2017-03-21
+2017-03-21 00:28:42.579,4153,TCP  ,84.203.43.259,3665,Safari,,Female,CA,Premium,English,2400.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:28:55.461,3370,TCP  ,84.203.54.118,2267,Safari,,Male,SE,Premium,English,10.46,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:28:55.461,1942,TCP  ,84.205.244.142,3249,Safari,,Female,JP,Premium,English,600.16,No,0.0,Others,2017-03-21
+2017-03-21 00:29:03.860,1752,TCP  ,84.209.98.245,2163,Safari,,Male,CH,Premium,norwegian,0.0,Yes,2677.5,Credit Card,2017-03-21
+2017-03-21 00:29:03.860,3094,TCP  ,84.212.83.222,3237,Safari,,Female,US,Premium,English,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:30:15.997,3602,TCP  ,84.215.171.79,441,IOS App,,Female,CA,Premium,English,0.0,Yes,3780.0,Credit Card,2017-03-21
+2017-03-21 00:30:15.997,3223,TCP  ,84.219.147.112,8801,Microsoft Edge,,Female,AT,Premium,English,20.92,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:29:08.627,4934,TCP  ,84.219.210.108,2279,Microsoft Edge,,Female,CA,Premium,English,81.32,No,0.0,Cash,2017-03-21
+2017-03-21 00:29:08.627,2213,TCP  ,84.22.63.161,3289,Microsoft Edge,,Female,NO,Premium,English,5250.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:29:12.914,3388,TCP  ,84.221.133.189,2267,IOS App,,Female,CA,Premium,English,75.75,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:29:12.914,3909,TCP  ,84.221.202.218,3185,IOS App,,Female,MX,Premium,English,0.0,Yes,28.462,Debit Card,2017-03-21
+2017-03-21 00:29:22.195,4649,TCP  ,84.227.15.39,2371,IOS App,,Female,CA,Premium,English,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:29:22.195,3691,TCP  ,84.227.182.160,3185,IOS App,,Male,IT,Premium,English,0.0,Yes,50.176,Cash,2017-03-21
+2017-03-21 00:32:35.449,3947,TCP  ,84.23.158.211,120,IOS App,,Female,US,Premium,English,0.0,Yes,43.9875,Others,2017-03-21
+2017-03-21 00:32:35.449,3821,TCP  ,84.233.242.121,180,Chrome,,Male,US,Premium,English,900.24,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:29:31.696,1947,TCP  ,84.236.20.243,2179,Chrome,,Female,US,Premium,German,143.36,No,0.0,Cash,2017-03-21
+2017-03-21 00:29:31.696,1756,TCP  ,84.237.1.40,3185,Chrome,,Male,IT,Premium,English,0.0,Yes,91.485,Credit Card,2017-03-21
+2017-03-21 00:29:41.719,3751,TCP  ,84.237.188.58,2163,Chrome,,Female,RU,Premium,English,2400.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:29:41.719,3505,TCP  ,84.24.77.81,3185,Chrome,,Male,RU,Premium,Dutch,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:29:50.327,2879,TCP  ,84.246.217.19,2267,Chrome,,Female,JP,Premium,English,0.0,Yes,91.485,Debit Card,2017-03-21
+2017-03-21 00:29:50.327,2319,TCP  ,84.250.134.188,3185,Chrome,,Female,IT,Premium,Spanish,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:33:02.589,3432,TCP  ,84.251.90.43,46,Chrome,,Male,US,Premium,Spanish,107.52,No,0.0,Cash,2017-03-21
+2017-03-21 00:33:02.589,2712,TCP  ,84.255.239.244,40,Chrome,,Female,IT,Premium,slovene,0.0,Yes,10.983,Cash,2017-03-21
+2017-03-21 00:29:59.919,1845,TCP  ,84.26.251.122,2590,Chrome,,Male,CA,Premium,English,0.0,Yes,1425.38,Credit Card,2017-03-21
+2017-03-21 00:29:59.919,4501,TCP  ,84.26.4.127,4954,Others,,Male,JP,Premium,French,0.0,Yes,15.69,Others,2017-03-21
+2017-03-21 00:31:14.397,4170,TCP  ,84.27.100.171,2163,Others,,Female,IT,Premium,Dutch,0.0,Yes,31.815,Credit Card,2017-03-21
+2017-03-21 00:31:14.397,3029,TCP  ,84.32.143.250,3249,Others,,Female,IT,Premium,German,81.32,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:34:38.157,4027,TCP  ,84.41.47.9,46,Others,,Female,US,Premium,slovene,143.36,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:34:38.157,3697,TCP  ,84.47.205.115,40,Others,,Female,CA,Premium,persian,0.0,Yes,1140.304,Credit Card,2017-03-21
+2017-03-21 00:31:40.215,1732,TCP  ,84.50.21.226,561,Others,,Female,CN,Normal,English,15.69,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:31:40.215,2791,TCP  ,84.5.133.33,589,Mozilla Firefox,,Female,CN,Normal,French,5.23,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:31:40.216,2986,TCP  ,84.62.21.97,1725,Mozilla Firefox,,Female,US,Normal,German,0.0,Yes,1425.38,Credit Card,2017-03-21
+2017-03-21 00:31:40.216,3688,TCP  ,84.75.140.21,579,Mozilla Firefox,,Female,IT,Normal,English,600.16,No,0.0,Cash,2017-03-21
+2017-03-21 00:31:40.244,4584,TCP  ,84.78.18.17,556,Mozilla Firefox,,Male,CA,Normal,Spanish,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:31:40.244,1859,TCP  ,84.78.25.189,515,Mozilla Firefox,,Male,CN,Normal,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:31:40.244,3255,TCP  ,84.79.29.68,702,Mozilla Firefox,,Female,US,Normal,Spanish,30.3,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:31:40.244,3942,TCP  ,84.80.13.50,586,Android App,,Female,CA,Normal,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:31:40.563,2403,TCP  ,84.80.205.96,702,Android App,,Male,AR,Normal,Dutch,2400.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:31:40.563,4836,TCP  ,84.85.74.74,586,Android App,,Male,GB,Normal,Dutch,1800.51,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:31:40.563,4751,TCP  ,84.87.65.148,556,Android App,,Female,DE,Normal,English,600.16,No,0.0,Others,2017-03-21
+2017-03-21 00:31:40.563,1988,TCP  ,84.93.173.71,515,Android App,,Female,US,Normal,English,107.52,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:31:40.603,3002,TCP  ,84.95.193.197,561,Android App,,Male,IN,Normal,English,0.0,Yes,225.06,Debit Card,2017-03-21
+2017-03-21 00:31:40.603,3305,TCP  ,85.10.233.125,589,Android App,,Male,CA,Normal,English,71.68,No,0.0,Others,2017-03-21
+2017-03-21 00:31:41.719,2081,TCP  ,85.10.233.125,639,Android App,,Female,AR,Normal,English,0.0,Yes,91.485,Debit Card,2017-03-21
+2017-03-21 00:31:41.719,3010,TCP  ,85.10.233.125,614,Android App,,Female,PL,Normal,English,10.46,No,0.0,Cash,2017-03-21
+2017-03-21 00:31:40.621,3984,TCP  ,85.101.208.68,639,Android App,,Male,IN,Normal,Spanish,11.73,No,0.0,Others,2017-03-21
+2017-03-21 00:31:40.621,4551,TCP  ,85.103.209.257,614,Android App,,Female,KR,Normal,Spanish,162.64,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:33:11.874,2589,TCP  ,85.104.75.179,329,Android App,,Female,CA,Premium,Spanish,20.92,No,0.0,Cash,2017-03-21
+2017-03-21 00:33:11.874,3914,TCP  ,85.105.92.26,1617,Android App,,Male,CN,Premium,Spanish,0.0,Yes,15.69,Debit Card,2017-03-21
+2017-03-21 00:35:21.572,2134,TCP  ,85.106.174.184,46,Android App,,Female,AT,Premium,English,0.0,Yes,450.12,Others,2017-03-21
+2017-03-21 00:35:21.572,4000,TCP  ,85.106.224.127,40,Android App,,Female,US,Premium,Spanish,179.2,No,0.0,Cash,2017-03-21
+2017-03-21 00:32:16.369,2248,TCP  ,85.11.133.219,2267,Android App,,Female,CA,Premium,English,1500.4,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:32:16.369,2705,TCP  ,85.114.14.141,3185,Android App,,Female,SE,Premium,English,71.68,No,0.0,Cash,2017-03-21
+2017-03-21 00:35:30.939,3157,TCP  ,85.115.53.187,2273,Android App,,Male,IN,Premium,English,1500.4,No,0.0,Others,2017-03-21
+2017-03-21 00:35:30.939,2160,TCP  ,85.115.54.208,4137,Android App,,Male,US,Premium,English,23.46,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:32:34.201,1529,TCP  ,85.115.58.187,3185,Android App,,Male,NO,Premium,English,162.64,No,0.0,Cash,2017-03-21
+2017-03-21 00:32:34.201,3046,TCP  ,85.117.106.49,2267,Chrome,,Female,IN,Premium,Russian,600.16,No,0.0,Debit Card,2017-03-21
+2017-03-21 00:35:52.945,2685,TCP  ,85.117.115.114,46,Mozilla Firefox,,Female,JP,Premium,Russian,40.66,No,0.0,Cash,2017-03-21
+2017-03-21 00:35:52.945,3654,TCP  ,85.117.119.237,40,Mozilla Firefox,,Female,PL,Premium,Russian,26.15,No,0.0,Cash,2017-03-21
+2017-03-21 00:32:44.020,2311,TCP  ,85.117.123.1966,3185,Mozilla Firefox,,Male,GB,Premium,Russian,0.0,Yes,21.21,Debit Card,2017-03-21
+2017-03-21 00:32:44.020,2035,TCP  ,85.117.123.2121,2267,Mozilla Firefox,,Female,CA,Premium,Russian,203.3,No,0.0,Cash,2017-03-21
+2017-03-21 00:32:53.641,2056,TCP  ,85.118.160.105,3185,Mozilla Firefox,,Male,CH,Premium,German,1500.4,No,0.0,Cash,2017-03-21
+2017-03-21 00:32:53.641,3599,TCP  ,85.119.88.84,2267,Mozilla Firefox,,Female,US,Premium,Spanish,900.24,No,0.0,Others,2017-03-21
+2017-03-21 00:33:04.115,3707,TCP  ,85.13.76.229,3185,Mozilla Firefox,,Female,CA,Premium,Spanish,0.0,Yes,1425.38,Others,2017-03-21
+2017-03-21 00:33:04.115,2607,TCP  ,85.132.117.12,2163,Mozilla Firefox,,Male,AT,Premium,Spanish,121.98,No,0.0,Cash,2017-03-21
+2017-03-21 00:36:18.805,2645,TCP  ,85.132.27.137,46,Android App,,Female,CA,Premium,Spanish,5.23,No,0.0,Others,2017-03-21
+2017-03-21 00:36:18.805,3553,TCP  ,85.133.38.40,40,Chrome,,Male,NO,Premium,English,0.0,Yes,4725.0,Debit Card,2017-03-21
+2017-03-21 00:36:22.686,4061,TCP  ,85.135.85.137,40,Chrome,,Female,CA,Premium,Spanish,2100.0,No,0.0,Cash,2017-03-21
+2017-03-21 00:36:22.686,2318,TCP  ,85.136.76.256,46,Chrome,,Male,MX,Premium,English,0.0,Yes,2700.765,Cash,2017-03-21
+2017-03-21 00:33:14.256,1753,TCP  ,85.137.67.49,3185,Chrome,,Male,CA,Premium,Spanish,40.66,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:33:14.256,3557,TCP  ,85.139.56.42,2267,Chrome,,Female,IT,Premium,Russian,0.0,Yes,1425.38,Cash,2017-03-21
+2017-03-21 00:33:23.828,4865,TCP  ,85.140.0.13,2163,Chrome,,Female,US,Premium,Russian,5250.0,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:33:23.828,2548,TCP  ,85.140.3.83,3185,IOS App,,Male,US,Premium,Russian,20.92,No,0.0,Cash,2017-03-21
