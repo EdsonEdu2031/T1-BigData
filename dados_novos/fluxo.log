@@ -173,3 +173,6 @@ accessed_date,duration_(secs),network_protocol,ip,bytes,accessed_Ffom,age,gender
 2017-03-21 00:15:34.836,2135,TCP  ,82.145.220.99,3369,Android App,,Male,CH,Premium,English,600.16,No,0.0,Cash,2017-03-21
 2017-03-21 00:12:35.159,4950,TCP  ,82.145.221.112,3185,Android App,,Female,GB,Premium,English,162.64,No,0.0,Credit Card,2017-03-21
 2017-03-21 00:12:35.159,2517,TCP  ,82.145.221.12,2267,Android App,,Male,RU,Premium,English,900.24,No,0.0,Cash,2017-03-21
+2017-03-21 00:12:44.185,2145,TCP  ,82.145.221.131,3185,Android App,,Female,CN,Premium,Russian,20.92,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:12:44.185,3827,TCP  ,82.145.221.136,2283,Android App,,Female,CA,Premium,English,10.46,No,0.0,Credit Card,2017-03-21
+2017-03-21 00:12:53.989,4858,TCP  ,82.145.221.14,3185,Android App,,Male,CH,Premium,English,162.64,No,0.0,Cash,2017-03-21
