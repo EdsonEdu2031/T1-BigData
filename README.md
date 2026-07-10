@@ -34,7 +34,7 @@ A etapa de análise exploratória foi fundamental para compreender a estrutura e
 A implementação da camada de processamento em lote evidenciou a importância do particionamento dos dados para o processamento eficiente das agregações. Além disso, foram incorporados mecanismos de controle e garantia da qualidade, como o log de processamento e os arquivos de quarentena, permitindo rastrear falhas e identificar registros inconsistentes. A **Figura 1** mostra um exemplo de vista de lote gerado para esse dataframe (apenas para algumas variáveis), onde para cada data obtivemos suas métricas.
 
 <p align="center">
-  <img src="T1-BigData/imgs/Exemplo de Vista de Lote.png" width="650">
+  <img src="imgs/Exemplo de Vista de Lote.png" width="650">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ A implementação da camada de processamento em lote evidenciou a importância d
 A **Figura 2** mostra um exemplo do arquivo log_processamento, o arquivo evidencia quais arquivos foram processados ou não, e em caso de erro o evidencia.
 
 <p align="center">
-  <img src="T1-BigData/imgs/Exemplo log_processamento.png" width="650">
+  <img src="imgs/Exemplo log_processamento.png" width="650">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ A **Figura 2** mostra um exemplo do arquivo log_processamento, o arquivo evidenc
 A implementação da camada de velocidade representou o maior desafio do projeto. A utilização de múltiplas threads para simular o fluxo contínuo de dados exigiu a sincronização entre a geração dos registros e a atualização da vista em tempo real, reproduzindo o comportamento esperado de uma camada de streaming. A **Figura 3** demonstra uma fração da vista rápida durante seu processamento. 
 
 <p align="center">
-  <img src="T1-BigData/imgs/Vista Rápida.gif" width="850">
+  <img src="imgs/Vista Rapida.gif" width="850">
 </p>
 
 <p align="center">
